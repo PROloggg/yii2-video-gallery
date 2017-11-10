@@ -1,0 +1,12 @@
+.video-list {
+    background: #fff;
+    padding: 1%;
+}
+
+.video-list a {
+    margin: 0.5%;
+}
+
+.video-list .delete {
+    color: #ff0000;
+}
